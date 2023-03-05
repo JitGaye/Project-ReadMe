@@ -12,7 +12,8 @@ We started our project three months ago as a team, not much of the app was devel
 
 Crop Recommendation , MarketPlace etc were developed in the course of the hackathon. The old website is this:
 
-![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.002.jpeg)
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 002](https://user-images.githubusercontent.com/83745415/222959179-6be4cf8f-331a-4792-8cdc-65a0c4b523b6.jpeg)
+
 
 **Description and all features**
 
@@ -20,21 +21,30 @@ Agrow is an amalgamation of various features achieved using both a react web app
 
 Leaf Disease Detection: A CNN model is trained with over 38 classes of diseases in plants and preventive measures and cures for the diseases. The farmer takes a picture of the infected leaf from the mobile app and is listed with three of the most probable diseases the leaf could have.
 
-![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.003.jpeg) ![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.004.png)
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 003](https://user-images.githubusercontent.com/83745415/222959219-48f11b81-3b3b-4040-982d-06bbbb468acc.jpeg)
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 004](https://user-images.githubusercontent.com/83745415/222959224-8d078277-24e8-4959-b225-6fe0a5ee8582.png)
+
 
 **Soil Nutrient Detection:**
 
 The farmer takes a picture of the soil through the mobile app and with our CNN and OpenCV algorithm, we return the N, P and K values in the soil. We calculate the ratio of the type of soil (sandy, loamy, clayey etc) and from this ratio and the weather data, we estimate the NPK values for a given location.
 
-![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.005.png)
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 005](https://user-images.githubusercontent.com/83745415/222959235-2bd05190-45e7-4eb8-9f40-267a502815cc.png)
+
 
 **Crop Recommendation:**
 
-Using our NPK values, the farmer can feed this data into the website to receive crop recommendations for max yield and max profit. Not only does it recommend crops that grow best for the soil based on NPK values, but it also recommends highly profitable export value-rich crops that can help farmers make a profit by eradicating poverty as a reason for farmer suicides.![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.006.jpeg)
+Using our NPK values, the farmer can feed this data into the website to receive crop recommendations for max yield and max profit. Not only does it recommend crops that grow best for the soil based on NPK values, but it also recommends highly profitable export value-rich crops that can help farmers make a profit by eradicating poverty as a reason for farmer suicides.
+
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 006](https://user-images.githubusercontent.com/83745415/222959258-8be2c8ba-a481-45a7-9587-07ce66af04fd.jpeg)
+
 
 **Fertilizer Recommendations:**
 
-For the recommended crops, we also provide fertilizer recommendations on the website to maximize the yield further.![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.007.jpeg)
+For the recommended crops, we also provide fertilizer recommendations on the website to maximize the yield further.
+
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 007](https://user-images.githubusercontent.com/83745415/222959266-1291e160-cab9-43d4-9207-52ffe9158d54.jpeg)
+
 
 **ChatBot:**
 
@@ -70,6 +80,5 @@ A news API so farmers can stay on top of new trends and be aware of things in th
 
 ![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.013.jpeg)
 
-**Landing Page![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.014.jpeg)**
-
-![](Aspose.Words.7052f3f1-9c47-497d-afdb-da450045c713.015.jpeg)
+**Landing Page**
+![Aspose Words 7052f3f1-9c47-497d-afdb-da450045c713 014](https://user-images.githubusercontent.com/83745415/222959425-8830a1d8-7871-4ddf-b095-46c27f83aa2d.jpeg)
